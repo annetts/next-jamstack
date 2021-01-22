@@ -4,7 +4,7 @@ import Head from 'next/head'
 const Home = () => (
   <div>
     <h1>
-      Poster webpage from <em>Ant3nn</em> and <em>Henry</em> the Disagner 🎉
+      Poster webpage from <em>Ant3nn</em> and <em>Henry</em> the Designer 🎉
     </h1>
 
     <h3>First designs coming soon!</h3>
